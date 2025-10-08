@@ -56,6 +56,3 @@ STEP-8: Repeat the above steps to generate the entire cipher text.
 ## RESULT
 
 Thus the execution of the Vigenere Cipher has executed successfully.
-
-
-## RESULT
